@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.13)  26 APR 2024 01:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.13)  29 APR 2024 12:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1256,7 +1256,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 
 
 
-]
+] [2]
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
 e 35.
 
@@ -1265,7 +1265,6 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 35.
- [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.5pt on input line 53.
  [3]))
@@ -1385,7 +1384,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  9365 strings out of 478278
  138603 string characters out of 5846547
- 439738 words of memory out of 5000000
+ 440739 words of memory out of 5000000
  27311 multiletter control sequences out of 15000+600000
  541377 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1399,7 +1398,7 @@ ive/2021/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/20
 mf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2021/texmf-dist/f
 onts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/public/newtx/ztmri.pfb>
-Output written on DRL_main.pdf (41 pages, 182426 bytes).
+Output written on DRL_main.pdf (41 pages, 182561 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  114 compressed objects within 2 object streams
