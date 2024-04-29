@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.13)  17 APR 2024 12:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.13)  26 APR 2024 01:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**RSFIE_main.tex
-(./RSFIE_main.tex
+**DRL_main.tex
+(./DRL_main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-05> (./svmono.cls
 Document Class: svmono 2021/09/08 v5.10 
@@ -534,10 +534,10 @@ LaTeX Info: Redefining \Bbbk on input line 2807.
 LaTeX Info: Redefining \not on input line 2956.
 )
 \@indexfile=\write4
-\openout4 = `RSFIE_main.idx'.
+\openout4 = `DRL_main.idx'.
 
 
-Writing index file RSFIE_main.idx
+Writing index file DRL_main.idx
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
  41.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
@@ -551,7 +551,8 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count318
 \l__pdf_internal_box=\box100
 )
-(./RSFIE_main.aux (./acronym.aux) (./chapter1.aux) (./chapter2.aux
+(./DRL_main.aux (./preface.aux) (./acronym.aux) (./chapter1.aux)
+(./chapter2.aux
 
 LaTeX Warning: Label `intro' multiply defined.
 
@@ -869,6 +870,9 @@ LaTeX Warning: Label `basic-mono' multiply defined.
 
 ) (./chapter6.aux
 
+LaTeX Warning: Label `intro' multiply defined.
+
+
 LaTeX Warning: Label `science-contrib' multiply defined.
 
 
@@ -1023,7 +1027,7 @@ LaTeX Warning: Label `basic-journal' multiply defined.
 LaTeX Warning: Label `basic-mono' multiply defined.
 
 ) (./appendix.aux) (./glossary.aux))
-\openout1 = `RSFIE_main.aux'.
+\openout1 = `DRL_main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 41.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
@@ -1137,58 +1141,71 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 
 
 ]
+\openout2 = `preface.aux'.
+
+ (./preface.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 16.0pt on input line 55.
+(Font)              scaled to size 16.0pt on input line 9.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 16.0pt on input line 55.
+(Font)              scaled to size 16.0pt on input line 9.
 LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
-e 55.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+e 9.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 55.
+(Font)              scaled to size 10.0pt on input line 9.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 55.
+(Font)              scaled to size 7.3pt on input line 9.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 55.
+(Font)              scaled to size 5.5pt on input line 9.
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-55.
+9.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-55.
+9.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-55.
+9.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-(./RSFIE_main.toc
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 1.
+(Font)              scaled to size 12.0pt on input line 25.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 36.
+)
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.5pt on input line 28.
+(Font)              scaled to size 8.5pt on input line 52.
  [5
 
 
-])
-\tf@toc=\write5
-\openout5 = `RSFIE_main.toc'.
 
- [6]
+] [6
+
+
+
+
+]
+(./DRL_main.toc
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+ [7])
+\tf@toc=\write5
+\openout5 = `DRL_main.toc'.
+
+ [8]
 \openout2 = `acronym.aux'.
 
  (./acronym.tex
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 10.
-
 Overfull \hbox (3.22217pt too wide) in paragraph at lines 10--11
 \T1/ntxtlf/m/n/10 Use the tem-plate \T1/ntxtlf/m/it/10 acronym.tex \T1/ntxtlf/m
 /n/10 to-gether with the doc-u-ment class SV-Mono (monograph-
@@ -1201,11 +1218,11 @@ File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 10.0pt on input line 12.
-) [7
+) [9
 
 
 
-] [8
+] [10
 
 
 
@@ -1218,14 +1235,10 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.0pt on input line 9.
-
-Overfull \hbox (6.62218pt too wide) in paragraph at lines 15--15
-\T1/ntxtlf/m/n/10 that sum-ma-rizes the con-tent. The ab-stract will ap-pear \T
-1/ntxtlf/m/it/10 on-line \T1/ntxtlf/m/n/10 at www.SpringerLink.com
- []
-
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 11.0pt on input line 21.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 17.
+(Font)              scaled to size 11.0pt on input line 21.
 (./references_chapter1.tex
 LaTeX Font Info:    Trying to load font information for T1+ntxsups on input lin
 e 35.
@@ -1252,21 +1265,22 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 35.
+ [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.5pt on input line 53.
- [2]))
-[3]
+ [3]))
+[4]
 \openout2 = `chapter2.aux'.
 
- (./chapter2.tex [4
-
-
-
-
-
-]
+ (./chapter2.tex
 Chapter 2.
-(./references.tex [5] [6])) [7]
+(./references.tex [5
+
+
+
+
+
+] [6])) [7]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex [8
@@ -1277,18 +1291,18 @@ Chapter 2.
 
 ]
 Chapter 3.
-(./references.tex [9] [10])) [11]
+(./references.tex [9] [10] [11])) [12]
 \openout2 = `chapter4.aux'.
 
- (./chapter4.tex [12
-
-
-
-
-
-]
+ (./chapter4.tex
 Chapter 4.
-(./references.tex [13] [14])) [15]
+(./references.tex [13
+
+
+
+
+
+] [14])) [15]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex [16
@@ -1299,10 +1313,6 @@ Chapter 4.
 
 ]
 Chapter 5.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 11.0pt on input line 15.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 11.0pt on input line 15.
 (./references.tex [17] [18])) [19]
 \openout2 = `chapter6.aux'.
 
@@ -1355,12 +1365,17 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 
 
 
-]
-No file RSFIE_main.ind.
-\tf@thm=\write6
-\openout6 = `RSFIE_main.thm'.
+] (./DRL_main.ind [32
 
-(./RSFIE_main.aux (./acronym.aux) (./chapter1.aux) (./chapter2.aux)
+
+
+
+] [33])
+\tf@thm=\write6
+\openout6 = `DRL_main.thm'.
+
+ (./DRL_main.aux
+(./preface.aux) (./acronym.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux)
 (./chapter7.aux) (./appendix.aux) (./glossary.aux))
 
@@ -1368,13 +1383,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9336 strings out of 478278
- 137913 string characters out of 5846547
- 439074 words of memory out of 5000000
- 27290 multiletter control sequences out of 15000+600000
+ 9365 strings out of 478278
+ 138603 string characters out of 5846547
+ 439738 words of memory out of 5000000
+ 27311 multiletter control sequences out of 15000+600000
  541377 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,6n,76p,615b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,6n,76p,613b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
 local/texlive/2021/texmf-dist/fonts/enc/dvips/newtx/ntxsups_t1.enc}{/usr/local/
 texlive/2021/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texliv
@@ -1384,10 +1399,10 @@ ive/2021/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/20
 mf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2021/texmf-dist/f
 onts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/public/newtx/ztmri.pfb>
-Output written on RSFIE_main.pdf (37 pages, 179596 bytes).
+Output written on DRL_main.pdf (41 pages, 182426 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
+ 171 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
