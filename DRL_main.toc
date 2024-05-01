@@ -22,52 +22,52 @@
 \contentsline {subsection}{\numberline {2.4.3}A/B Testing}{5}{}%
 \contentsline {subsection}{\numberline {2.4.4}Interleaving}{5}{}%
 \contentsline {section}{References}{5}{}%
-\contentsline {chapter}{\numberline {3}Deep Reinforcement Learning Models}{9}{}%
-\contentsline {section}{\numberline {3.1}General Functionalities of Deep Models}{10}{}%
-\contentsline {subsection}{\numberline {3.1.1}Policy Approximation Based}{10}{}%
-\contentsline {subsection}{\numberline {3.1.2}Value Function Approximation Based}{10}{}%
-\contentsline {section}{\numberline {3.2}Deep Embeddings}{10}{}%
-\contentsline {section}{\numberline {3.3}Transformers in Reinforcement Learning Models}{10}{}%
-\contentsline {section}{\numberline {3.4}CNN-based Reinforcement Learning Models}{10}{}%
-\contentsline {section}{\numberline {3.5}RNN-based Reinforcement Learning Models}{10}{}%
-\contentsline {section}{\numberline {3.6}Hybrid Deep Reinforcement Learning Models}{10}{}%
-\contentsline {section}{\numberline {3.7}Hybrid Reinforcement Learning Models}{10}{}%
-\contentsline {section}{\numberline {3.8}Advanced Network Components}{10}{}%
-\contentsline {subsection}{\numberline {3.8.1}Attention}{10}{}%
-\contentsline {section}{References}{10}{}%
-\contentsline {chapter}{\numberline {4}Emperical Deep Reinforcement Learning Systems}{13}{}%
-\contentsline {section}{\numberline {4.1}DRL In Robotics}{13}{}%
-\contentsline {section}{\numberline {4.2}DRL In Commerce}{13}{}%
-\contentsline {section}{\numberline {4.3}DRL In Medications}{13}{}%
-\contentsline {section}{\numberline {4.4}DRL In Education}{13}{}%
-\contentsline {section}{\numberline {4.5}DRL In Civilization}{13}{}%
-\contentsline {section}{\numberline {4.6}DRL In Simulations}{13}{}%
+\contentsline {chapter}{\numberline {3}Deep Reinforcement Learning Models}{7}{}%
+\contentsline {section}{\numberline {3.1}General Functionalities of Deep Models}{8}{}%
+\contentsline {subsection}{\numberline {3.1.1}Policy Approximation Based}{8}{}%
+\contentsline {subsection}{\numberline {3.1.2}Value Function Approximation Based}{8}{}%
+\contentsline {section}{\numberline {3.2}Deep Embeddings}{8}{}%
+\contentsline {section}{\numberline {3.3}Transformers in Reinforcement Learning Models}{8}{}%
+\contentsline {section}{\numberline {3.4}CNN-based Reinforcement Learning Models}{8}{}%
+\contentsline {section}{\numberline {3.5}RNN-based Reinforcement Learning Models}{8}{}%
+\contentsline {section}{\numberline {3.6}Hybrid Deep Reinforcement Learning Models}{8}{}%
+\contentsline {section}{\numberline {3.7}Hybrid Reinforcement Learning Models}{8}{}%
+\contentsline {section}{\numberline {3.8}Advanced Network Components}{8}{}%
+\contentsline {subsection}{\numberline {3.8.1}Attention}{8}{}%
+\contentsline {section}{References}{8}{}%
+\contentsline {chapter}{\numberline {4}Emperical Deep Reinforcement Learning Systems}{11}{}%
+\contentsline {section}{\numberline {4.1}DRL In Robotics}{11}{}%
+\contentsline {section}{\numberline {4.2}DRL In Commerce}{11}{}%
+\contentsline {section}{\numberline {4.3}DRL In Medications}{11}{}%
+\contentsline {section}{\numberline {4.4}DRL In Education}{11}{}%
+\contentsline {section}{\numberline {4.5}DRL In Civilization}{11}{}%
+\contentsline {section}{\numberline {4.6}DRL In Simulations}{11}{}%
+\contentsline {section}{References}{11}{}%
+\contentsline {chapter}{\numberline {5}Performance Evaluations}{13}{}%
+\contentsline {subsection}{\numberline {5.0.1}Offline Performance Metrics}{13}{}%
+\contentsline {subsection}{\numberline {5.0.2}Online Performance Metrics}{13}{}%
+\contentsline {subsection}{\numberline {5.0.3}A/B Testing}{13}{}%
+\contentsline {subsection}{\numberline {5.0.4}Interleaving}{13}{}%
 \contentsline {section}{References}{13}{}%
-\contentsline {chapter}{\numberline {5}Performance Evaluations}{17}{}%
-\contentsline {subsection}{\numberline {5.0.1}Offline Performance Metrics}{17}{}%
-\contentsline {subsection}{\numberline {5.0.2}Online Performance Metrics}{17}{}%
-\contentsline {subsection}{\numberline {5.0.3}A/B Testing}{17}{}%
-\contentsline {subsection}{\numberline {5.0.4}Interleaving}{17}{}%
+\contentsline {chapter}{\numberline {6}Advanced Topics}{15}{}%
+\contentsline {section}{\numberline {6.1}Memorization}{15}{}%
+\contentsline {section}{\numberline {6.2}Alignment of Target Network}{15}{}%
+\contentsline {section}{\numberline {6.3}Policy Drift and the Solutions}{15}{}%
+\contentsline {section}{\numberline {6.4}Sociality and Trust}{15}{}%
+\contentsline {section}{\numberline {6.5}Attack Resistance}{15}{}%
+\contentsline {section}{\numberline {6.6}Privacy Preservation}{15}{}%
+\contentsline {section}{\numberline {6.7}Personalization}{15}{}%
+\contentsline {section}{References}{15}{}%
+\contentsline {chapter}{\numberline {7}Empericcal Researches Ongoing}{17}{}%
+\contentsline {section}{\numberline {7.1}Adoptations of Neuroscience}{17}{}%
+\contentsline {section}{\numberline {7.2}Future of Deep Reinforcement Learning}{17}{}%
 \contentsline {section}{References}{17}{}%
-\contentsline {chapter}{\numberline {6}Advanced Topics}{21}{}%
-\contentsline {section}{\numberline {6.1}Memorization}{21}{}%
-\contentsline {section}{\numberline {6.2}Alignment of Target Network}{21}{}%
-\contentsline {section}{\numberline {6.3}Policy Drift and the Solutions}{21}{}%
-\contentsline {section}{\numberline {6.4}Sociality and Trust}{21}{}%
-\contentsline {section}{\numberline {6.5}Attack Resistance}{21}{}%
-\contentsline {section}{\numberline {6.6}Privacy Preservation}{21}{}%
-\contentsline {section}{\numberline {6.7}Personalization}{21}{}%
-\contentsline {section}{References}{21}{}%
-\contentsline {chapter}{\numberline {7}Empericcal Researches Ongoing}{25}{}%
-\contentsline {section}{\numberline {7.1}Adoptations of Neuroscience}{25}{}%
-\contentsline {section}{\numberline {7.2}Future of Deep Reinforcement Learning}{25}{}%
-\contentsline {section}{References}{25}{}%
-\contentsline {chapter}{\numberline {A}Appendix}{29}{}%
-\contentsline {section}{\numberline {A.1}Math Appendix}{29}{}%
-\contentsline {chapter}{Glossary}{31}{}%
-\contentsline {paragraph}{glossary term}{31}{}%
-\contentsline {paragraph}{glossary term}{31}{}%
-\contentsline {paragraph}{glossary term}{31}{}%
-\contentsline {paragraph}{glossary term}{31}{}%
-\contentsline {paragraph}{glossary term}{31}{}%
-\contentsline {chapter}{Index}{33}{}%
+\contentsline {chapter}{\numberline {A}Appendix}{19}{}%
+\contentsline {section}{\numberline {A.1}Math Appendix}{19}{}%
+\contentsline {chapter}{Glossary}{21}{}%
+\contentsline {paragraph}{glossary term}{21}{}%
+\contentsline {paragraph}{glossary term}{21}{}%
+\contentsline {paragraph}{glossary term}{21}{}%
+\contentsline {paragraph}{glossary term}{21}{}%
+\contentsline {paragraph}{glossary term}{21}{}%
+\contentsline {chapter}{Index}{23}{}%
