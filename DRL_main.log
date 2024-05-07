@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.13)  1 MAY 2024 09:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.13)  7 MAY 2024 08:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -941,7 +941,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  9327 strings out of 478278
  138305 string characters out of 5846547
- 439633 words of memory out of 5000000
+ 440633 words of memory out of 5000000
  27272 multiletter control sequences out of 15000+600000
  538199 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -953,7 +953,7 @@ cal/texlive/2021/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/te
 xlive/2021/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/202
 1/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2021/texmf-d
 ist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on DRL_main.pdf (31 pages, 140703 bytes).
+Output written on DRL_main.pdf (31 pages, 140161 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream
