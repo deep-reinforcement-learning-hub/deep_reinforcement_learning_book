@@ -71,7 +71,7 @@ Glossary ..........................................................
 If you use this writing, please cite it as below.
 @book{rlftter,
   title={Reinforcement learning - From Theory To Empirical Research},
-  author={Emily Lyon and Kalyan Schimit},
-  year={2021},
+  author={Emily Zhu},
+  year={2016},
   publisher={GitHub: https://github.com/iouterspace/deep_reinforcement_learning_book}
 }
