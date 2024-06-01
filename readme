@@ -68,4 +68,10 @@ A.1 MathAppendix ............................................ 19
 Glossary .......................................................... 
 21 Index ............................................................. 25
 
-
+If you use this writing, please cite it as below.
+@book{rlftter,
+  title={Reinforcement learning - From Theory To Empirical Research},
+  author={Emily Lyon and Kalyan Schimit},
+  year={2021},
+  publisher={GitHub: https://github.com/iouterspace/deep_reinforcement_learning_book}
+}
