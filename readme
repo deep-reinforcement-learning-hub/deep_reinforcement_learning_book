@@ -59,11 +59,11 @@ References ..................................................... 13
 6.6 Privacy Preservation ........................................ 15
 6.7 Personalization ............................................ 15
 References ..................................................... 15
-7 Empericcal Researches Ongoing ................................. 17 
+7 Empirical Researches Ongoing ................................. 17 
 7.1 Adoptations of Neuroscience................................. 17 
-7.2 Futureof Deep Reinforcement Learning........................ 17 
+7.2 Future of Deep Reinforcement Learning........................ 17 
 References ..................................................... 17
-A Appendix ..................................................... 19 
+An Appendix ..................................................... 19 
 A.1 Math Appendix ............................................ 19
 Glossary .......................................................... 
 21 Index ............................................................. 25
@@ -72,6 +72,6 @@ The book is still in progress. If you use this writing, please cite it as below.
 @book{rlftter,
   title={Reinforcement learning - From Theory To Empirical Research},
   author={Yingying Zhu and Emily Lyon},
-  year={2016},
-  publisher={GitHub: https://github.com/iouterspace/deep_reinforcement_learning_book}
+  year={2021},
+  publisher={https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book}
 }
