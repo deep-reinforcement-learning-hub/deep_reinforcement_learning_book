@@ -12,7 +12,7 @@
 1.5 Summary ................................................. 2
 1.6 BibliographicNotes ........................................ 2
 References ..................................................... 2
-2 Mathematics in Deep ReinforcementLearning .................... 5
+2 Mathematics in ReinforcementLearning .................... 5
 2.1 Reinforcement Learning Foundations.......................... 5
 2.2 DeepLearning Foundations.................................. 5
 2.3 Deep Reinforcement Learning Foundations..................... 5
@@ -36,13 +36,13 @@ Contents
 3.8 Advanced Network Components .............................. 8
 3.8.1 Attention ........................................... 8 
 References ..................................................... 8
-4 Emperical Deep Reinforcement Learning Systems ................. 11
-4.1 DRL In Robotics ........................................... 11
-4.2 DRL In Commerce ......................................... 11
-4.3 DRL In Medications ........................................ 11
-4.4 DRL In Education.......................................... 11
-4.5 DRL In Civilization ........................................ 11
-4.6 DRL In Simulations ........................................ 11
+4 Empirical Reinforcement Learning Systems ................. 11
+4.1 RL In Robotics ........................................... 11
+4.2 RL In Commerce ......................................... 11
+4.3 RL In Medications ........................................ 11
+4.4 RL In Education.......................................... 11
+4.5 RL In Civilization ........................................ 11
+4.6 RL In Simulations ........................................ 11
 References ..................................................... 11
 5 Performance Evaluations ....................................... 13 
 5.0.1 Offline Performance Metrics........................... 13
