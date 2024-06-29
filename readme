@@ -71,7 +71,7 @@ Glossary ..........................................................
 The book is still in progress. If you use this writing, please cite it as below.
 @book{rlftter,
   title={Reinforcement learning - From Theory To Empirical Research},
-  author={Yingying Zhu and Emily Lyon},
+  author={Emily Fischer and Anna Zhu},
   year={2021},
   publisher={https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book}
 }
