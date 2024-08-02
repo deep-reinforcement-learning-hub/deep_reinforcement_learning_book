@@ -68,10 +68,10 @@ A.1 Math Appendix ............................................ 19
 Glossary .......................................................... 
 21 Index ............................................................. 25
 
-The book is still in progress. If you use this writing, please cite it as below.
+This is the second edition of the book. If you use this writing, please cite it as below.
 @book{rlftter,
   title={Reinforcement learning - From Theory To Empirical Research},
   author={Emily Lyon},
-  year={2021},
+  year={2024},
   publisher={https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book}
 }
