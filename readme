@@ -71,7 +71,7 @@ Glossary ..........................................................
 This is the second edition of the book. If you use this writing, please cite it as below.
 @book{rlftter,
   title={Reinforcement learning - From Theory To Empirical Research},
-  author={Emily Lyon},
+  author={Emily Zhu and Emily Lyon},
   year={2024},
-  publisher={https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book}
+  publisher={The MIT Press}
 }
