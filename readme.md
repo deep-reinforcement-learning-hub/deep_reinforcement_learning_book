@@ -1,15 +1,12 @@
+<div align="center">
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_cover.png">
+</div>
 
-
-<!--<iframe src="./book_cover/toc.pdf" width="100%" />
-![](./book_cover/toc.pdf)
-
-![bg](./book_cover/toc.pdf)
--->
-
-<img src="./book_cover/book_cover.png" alt="app-screen" width="300" />
-
-
-
+<object data="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_toc.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_toc.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_toc.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 This is the second edition of the book. If you use this writing, please cite it as below.
 
