@@ -10,9 +10,9 @@
 
 This is the second edition of the book. If you use this writing, please cite it as below.
 
-@book{rlftter,
-  title={Reinforcement learning - From Theory To Empirical Research},
-  author={Emily Lyon},
-  year={2024},
-  publisher={The MIT Press}
+@book{rlftter, \
+  title={Reinforcement learning - From Theory To Empirical Research}, \
+  author={Emily Lyon}, \
+  year={2024}, \
+  publisher={The MIT Press} \
 }
