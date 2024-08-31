@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_cover.png">
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_cover.png" width="500px" >
 </div>
 
 This work is supported by DeepMind under Google Research. 
 <div align="center">
-  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp">
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp" width="400px" height="250px">
 </div>
 
 <object data="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf" type="application/pdf" width="700px" height="700px">
