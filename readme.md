@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_cover.png">
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_cover.png">
 </div>
 
-<object data="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_toc.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_toc.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/book_toc.pdf">Download PDF</a>.</p>
+This work is supported by DeepMind under Google Research. 
+<div align="center">
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp">
+</div>
+
+<object data="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
