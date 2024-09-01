@@ -4,7 +4,11 @@
 
 This work is supported by DeepMind under Google Research. 
 <div align="center">
-  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp" width="400px" height="250px">
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/deapmind_concept.png" height="250px">
+</div>
+
+<div align="center">
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp" height="250px">
 </div>
 
 <object data="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf" type="application/pdf" width="700px" height="700px">
