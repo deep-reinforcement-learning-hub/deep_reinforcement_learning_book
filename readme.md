@@ -2,7 +2,7 @@
   <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_cover.png" width="500px" >
 </div>
 
-This work is supported by DeepMind under Google Research. 
+This work is supported by DeepMind under Google Research and Outerspace Intelligence Research. 
 <div align="center">
   <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/deapmind_concept.png" height="250px">
 </div>
@@ -10,6 +10,8 @@ This work is supported by DeepMind under Google Research.
 <div align="center">
   <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp" height="250px">
 </div>
+
+Please subscribe to admins@outerspaceintelligences.com for updates.
 
 <object data="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf">
