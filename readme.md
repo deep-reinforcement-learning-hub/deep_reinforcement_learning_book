@@ -1,3 +1,5 @@
+Sample Cover
+
 <div align="center">
   <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_cover.png" width="500px" >
 </div>
