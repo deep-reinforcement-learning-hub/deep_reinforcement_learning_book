@@ -15,7 +15,7 @@ This work is supported by DeepMind, Google Research and Outerspace Intelligence 
 
 Part of the book is written with Grammarly and customized language AI product Gemini, if you find any presentation that is the same as yours, please email with demonstrations.
 
-Please subscribe for updates.
+Please subscribe for updates or contributions to admins@outerspaceintelligences.com.
 
 <object data="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_toc.pdf">
