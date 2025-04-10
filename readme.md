@@ -4,14 +4,14 @@ Sample Cover
   <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/IMG_4565.jpeg" width="500px" >
 </div>
 
-# This work is supported by DeepMind, Google Research, and Outerspace Intelligence Research. 
-# <div align="center">
-#  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/deapmind_concept.png" height="250px">
-# </div>
+% This work is supported by DeepMind, Google Research, and Outerspace Intelligence Research. 
+% <div align="center">
+%  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/deapmind_concept.png" height="250px">
+% </div>
 
-# <div align="center">
-#  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp" height="250px">
-# </div>
+% <div align="center">
+%  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/readme_icon.webp" height="250px">
+% </div>
 
 Part of the book is written with Grammarly and customized language AI product Gemini, if you find any presentation that is the same as yours, please email with demonstrations.
 
