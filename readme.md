@@ -1,7 +1,7 @@
 Sample Cover
 
 <div align="center">
-  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_cover_us.jpeg" width="500px" >
+  <img src="https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book/blob/rl_main/images/book_cover.jpeg" width="500px" >
 </div>
 
 <!-- This work is supported by DeepMind, Google Research, and Outerspace Intelligence Research. 
