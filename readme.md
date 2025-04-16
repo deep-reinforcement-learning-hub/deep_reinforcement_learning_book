@@ -29,5 +29,5 @@ This is the second edition of the book. If you use this writing, please cite it 
   title={Reinforcement learning - From Theory To Empirical Research}, \
   author={Emily Lyon}, \
   year={2024}, \
-  publisher={Rainbow Fairy} \
+  publisher={OpenSource} \
 }
