@@ -25,9 +25,9 @@ Please subscribe for updates or contributions to admins@rainbowfairies.com.
 
 This is the second edition of the book. If you use this writing, please cite it as below.
 
-@misc{rlftter,
-  title =        {Reinforcement learning - From Theory To Empirical Research},
-  author={Emily Lyon}, 
-  howpublished = {\url{https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book}},
-  year =         {2024}
+@misc{rlftter, \
+  title =        {Reinforcement learning - From Theory To Empirical Research}, \
+  author={Emily Lyon}, \
+  howpublished = {\url{https://github.com/deep-reinforcement-learning-hub/deep_reinforcement_learning_book}}, \
+  year =         {2024} \
 }
